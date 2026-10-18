@@ -1,63 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-label="Awesome Chinese Rainbow Fart">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-label="Top Chinese Rainbow Fart">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#0a0e14"/></linearGradient>
-    <linearGradient id="word" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#9af7e5"/><stop offset="0.6" stop-color="#2dd4bf"/><stop offset="1" stop-color="#0d9488"/></linearGradient>
-    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2dd4bf" stop-opacity="0.9"/><stop offset="1" stop-color="#0d9488" stop-opacity="0"/></linearGradient>
+    <linearGradient id="word" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#a5d6ff"/><stop offset="0.6" stop-color="#58a6ff"/><stop offset="1" stop-color="#1f6feb"/></linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#58a6ff" stop-opacity="0.9"/><stop offset="1" stop-color="#1f6feb" stop-opacity="0"/></linearGradient>
   </defs>
   <rect width="1280" height="340" fill="url(#bg)"/>
-<g opacity="0.9"><polyline points="1207,26 1224,33 1240,26" fill="none" stroke="#115e59" stroke-width="3" stroke-opacity="0.55"/>
-<polyline points="1212,41 1226,48 1240,41" fill="none" stroke="#14b8a6" stroke-width="3" stroke-opacity="0.55"/>
-<polyline points="1212,56 1226,63 1240,56" fill="none" stroke="#0d9488" stroke-width="3" stroke-opacity="0.55"/>
-<polyline points="1210,71 1225,78 1240,71" fill="none" stroke="#0d9488" stroke-width="3" stroke-opacity="0.55"/>
-<polyline points="1209,86 1225,93 1240,86" fill="none" stroke="#0d9488" stroke-width="3" stroke-opacity="0.55"/>
-<polyline points="1203,101 1222,108 1240,101" fill="none" stroke="#14b8a6" stroke-width="3" stroke-opacity="0.55"/>
-<rect x="60" y="310" width="22" height="3" rx="1.5" fill="#0d9488" fill-opacity="0.18"/>
-<rect x="98" y="310" width="22" height="3" rx="1.5" fill="#0d9488" fill-opacity="0.29"/>
-<rect x="136" y="310" width="22" height="3" rx="1.5" fill="#14b8a6" fill-opacity="0.28"/>
-<rect x="174" y="310" width="22" height="3" rx="1.5" fill="#14b8a6" fill-opacity="0.29"/>
-<rect x="212" y="310" width="22" height="3" rx="1.5" fill="#5eead4" fill-opacity="0.27"/>
-<rect x="250" y="310" width="22" height="3" rx="1.5" fill="#115e59" fill-opacity="0.22"/>
-<rect x="288" y="310" width="22" height="3" rx="1.5" fill="#115e59" fill-opacity="0.35"/>
-<rect x="326" y="310" width="22" height="3" rx="1.5" fill="#115e59" fill-opacity="0.36"/>
-<rect x="364" y="310" width="22" height="3" rx="1.5" fill="#0d9488" fill-opacity="0.26"/>
-<rect x="402" y="310" width="22" height="3" rx="1.5" fill="#99f6e4" fill-opacity="0.34"/>
-<rect x="440" y="310" width="22" height="3" rx="1.5" fill="#0d9488" fill-opacity="0.34"/>
-<rect x="478" y="310" width="22" height="3" rx="1.5" fill="#2dd4bf" fill-opacity="0.37"/>
-<rect x="516" y="310" width="22" height="3" rx="1.5" fill="#14b8a6" fill-opacity="0.38"/>
-<rect x="554" y="310" width="22" height="3" rx="1.5" fill="#99f6e4" fill-opacity="0.29"/>
-<rect x="592" y="310" width="22" height="3" rx="1.5" fill="#14b8a6" fill-opacity="0.33"/>
-<rect x="630" y="310" width="22" height="3" rx="1.5" fill="#115e59" fill-opacity="0.34"/>
-<rect x="668" y="310" width="22" height="3" rx="1.5" fill="#5eead4" fill-opacity="0.39"/>
-<rect x="706" y="310" width="22" height="3" rx="1.5" fill="#99f6e4" fill-opacity="0.25"/>
-<rect x="744" y="310" width="22" height="3" rx="1.5" fill="#99f6e4" fill-opacity="0.35"/>
-<rect x="782" y="310" width="22" height="3" rx="1.5" fill="#99f6e4" fill-opacity="0.18"/>
-<rect x="820" y="310" width="22" height="3" rx="1.5" fill="#0d9488" fill-opacity="0.34"/>
-<rect x="858" y="310" width="22" height="3" rx="1.5" fill="#0d9488" fill-opacity="0.27"/>
-<rect x="896" y="310" width="22" height="3" rx="1.5" fill="#14b8a6" fill-opacity="0.31"/>
-<rect x="934" y="310" width="22" height="3" rx="1.5" fill="#14b8a6" fill-opacity="0.39"/>
-<rect x="972" y="310" width="22" height="3" rx="1.5" fill="#0d9488" fill-opacity="0.31"/>
-<rect x="1010" y="310" width="22" height="3" rx="1.5" fill="#2dd4bf" fill-opacity="0.19"/>
-<rect x="1048" y="310" width="22" height="3" rx="1.5" fill="#14b8a6" fill-opacity="0.27"/>
-<rect x="1086" y="310" width="22" height="3" rx="1.5" fill="#115e59" fill-opacity="0.23"/>
-<rect x="1124" y="310" width="22" height="3" rx="1.5" fill="#2dd4bf" fill-opacity="0.32"/>
-<rect x="1162" y="310" width="22" height="3" rx="1.5" fill="#115e59" fill-opacity="0.26"/></g><g><rect x="60" y="198" width="26" height="26" rx="4" fill="#115e59"/>
-<rect x="60" y="166" width="26" height="26" rx="4" fill="#2dd4bf"/>
-<rect x="92" y="198" width="26" height="26" rx="4" fill="#0d9488"/>
-<rect x="124" y="198" width="26" height="26" rx="4" fill="#115e59"/>
-<rect x="124" y="166" width="26" height="26" rx="4" fill="#115e59"/>
-<rect x="124" y="134" width="26" height="26" rx="4" fill="#115e59"/>
-<rect x="124" y="102" width="26" height="26" rx="4" fill="#0d9488"/>
-<rect x="156" y="198" width="26" height="26" rx="4" fill="#0d9488"/>
-<rect x="156" y="166" width="26" height="26" rx="4" fill="#2dd4bf"/>
-<rect x="156" y="134" width="26" height="26" rx="4" fill="#14b8a6"/>
-<rect x="156" y="102" width="26" height="26" rx="4" fill="#99f6e4"/>
-<rect x="188" y="198" width="26" height="26" rx="4" fill="#115e59"/>
-<rect x="188" y="166" width="26" height="26" rx="4" fill="#5eead4"/>
-<rect x="188" y="134" width="26" height="26" rx="4" fill="#99f6e4"/>
-<rect x="188" y="102" width="26" height="26" rx="4" fill="#99f6e4"/>
-<rect x="188" y="70" width="26" height="26" rx="4" fill="#99f6e4"/></g>
-  <text x="274" y="170" font-family="'Segoe UI',system-ui,-apple-system,sans-serif" font-size="60" font-weight="800" fill="url(#word)" letter-spacing="-1">Awesome Chinese Rainbow Fart</text>
-  <rect x="277" y="184" width="420" height="3" rx="1.5" fill="url(#rule)"/>
-  <text x="277" y="218" font-family="'Segoe UI',system-ui,sans-serif" font-size="26" font-weight="600" fill="#c9d1d9">Chinese internet compliment generators, rainbow-fart plugins, meme makers and joke corpora, ranked by GitHub stars</text>
-  <text x="277" y="260" font-family="'SF Mono',ui-monospace,monospace" font-size="20" fill="#f0b429">★ 43 entries · 8.7k stars · EN + 中文 · rebuilt daily</text>
+<g><line x1="372" y1="172" x2="411" y2="103" stroke="#0a3d91" stroke-width="1.5" opacity="0.55"/><line x1="372" y1="172" x2="324" y2="261" stroke="#0a3d91" stroke-width="1.5" opacity="0.55"/><line x1="150" y1="203" x2="124" y2="203" stroke="#0a3d91" stroke-width="1.5" opacity="0.55"/><line x1="150" y1="203" x2="134" y2="229" stroke="#0a3d91" stroke-width="1.5" opacity="0.55"/><line x1="231" y1="112" x2="247" y2="80" stroke="#0a3d91" stroke-width="1.5" opacity="0.55"/><line x1="231" y1="112" x2="129" y2="64" stroke="#0a3d91" stroke-width="1.5" opacity="0.55"/><line x1="134" y1="229" x2="124" y2="203" stroke="#0a3d91" stroke-width="1.5" opacity="0.55"/><line x1="134" y1="229" x2="150" y2="203" stroke="#0a3d91" stroke-width="1.5" opacity="0.55"/><line x1="247" y1="80" x2="231" y2="112" stroke="#0a3d91" stroke-width="1.5" opacity="0.55"/><line x1="247" y1="80" x2="129" y2="64" stroke="#0a3d91" stroke-width="1.5" opacity="0.55"/><line x1="129" y1="64" x2="231" y2="112" stroke="#0a3d91" stroke-width="1.5" opacity="0.55"/><line x1="129" y1="64" x2="247" y2="80" stroke="#0a3d91" stroke-width="1.5" opacity="0.55"/><line x1="324" y1="261" x2="372" y2="172" stroke="#0a3d91" stroke-width="1.5" opacity="0.55"/><line x1="324" y1="261" x2="231" y2="112" stroke="#0a3d91" stroke-width="1.5" opacity="0.55"/><line x1="411" y1="103" x2="372" y2="172" stroke="#0a3d91" stroke-width="1.5" opacity="0.55"/><line x1="411" y1="103" x2="247" y2="80" stroke="#0a3d91" stroke-width="1.5" opacity="0.55"/><line x1="124" y1="203" x2="150" y2="203" stroke="#0a3d91" stroke-width="1.5" opacity="0.55"/><line x1="124" y1="203" x2="134" y2="229" stroke="#0a3d91" stroke-width="1.5" opacity="0.55"/><polygon points="372,162 382,172 372,182 362,172" fill="#1158c7"/><polygon points="150,187 166,203 150,219 134,203" fill="#1f6feb"/><polygon points="231,95 248,112 231,129 214,112" fill="#1158c7"/><polygon points="134,216 147,229 134,242 121,229" fill="#1f6feb"/><polygon points="247,64 263,80 247,96 231,80" fill="#1158c7"/><polygon points="129,50 143,64 129,78 115,64" fill="#1f6feb"/><polygon points="324,245 340,261 324,277 308,261" fill="#1158c7"/><polygon points="411,91 423,103 411,115 399,103" fill="#1f6feb"/><polygon points="124,188 139,203 124,218 109,203" fill="#1158c7"/></g>
+  <text x="470" y="168" font-family="'Segoe UI',system-ui,-apple-system,sans-serif" font-size="56" font-weight="800" fill="url(#word)" letter-spacing="-1">Top Chinese Rainbow Fart</text>
+  <rect x="473" y="182" width="420" height="3" rx="1.5" fill="url(#rule)"/>
+  <text x="473" y="216" font-family="'Segoe UI',system-ui,sans-serif" font-size="26" font-weight="600" fill="#c9d1d9">Chinese internet compliment generators, rainbow-fart plugins, meme makers and joke corpora, ranked by GitHub stars</text>
+  <text x="473" y="258" font-family="'SF Mono',ui-monospace,monospace" font-size="20" fill="#8957e5">★ 43 entries · 8.7k stars · EN + ZH · rebuilt daily</text>
 </svg>

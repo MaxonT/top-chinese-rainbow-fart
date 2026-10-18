@@ -1,4 +1,4 @@
-# Contributing to Awesome Chinese Rainbow Fart
+# Contributing to Top Chinese Rainbow Fart
 
 This list is generated automatically from GitHub and refreshed on a schedule,
 so edits to the README are overwritten by the next refresh. To change what it

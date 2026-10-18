@@ -6,9 +6,9 @@
 
 <p><i>彩虹屁插件、夸夸生成器、土味情话、毒鸡汤、表情包与沙雕语料，按 GitHub Stars 排名</i></p>
 
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) ![GitHub stars](https://img.shields.io/badge/%E2%AD%90%20stars-repo-black?style=for-the-badge) ![License](https://img.shields.io/badge/license-CC0-0a7bbb?style=for-the-badge)
+![Ranked by GitHub stars](https://img.shields.io/badge/ranked%20by-GitHub%20stars-orange?style=for-the-badge) ![GitHub stars](https://img.shields.io/badge/%E2%AD%90%20stars-repo-black?style=for-the-badge) ![License](https://img.shields.io/badge/license-CC0-0a7bbb?style=for-the-badge)
 
-![条目](https://img.shields.io/badge/%E6%9D%A1%E7%9B%AE-43-blueviolet?style=for-the-badge) ![总 Stars](https://img.shields.io/badge/%E6%80%BB%20Stars-8.7k-gold?style=for-the-badge) ![更新于](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E4%BA%8E-2026--10--15-brightgreen?style=for-the-badge)
+![条目](https://img.shields.io/badge/%E6%9D%A1%E7%9B%AE-43-blueviolet?style=for-the-badge) ![总 Stars](https://img.shields.io/badge/%E6%80%BB%20Stars-8.7k-gold?style=for-the-badge) ![更新于](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E4%BA%8E-2026--10--18-brightgreen?style=for-the-badge)
 
 [English](README.md) · **简体中文**
 
@@ -45,7 +45,7 @@
 | 1 | [**egotong/nows**](https://github.com/egotong/nows) | 1.4k | CSS | 2022-08-30 | 毒鸡汤 |
 | 2 | [**zerosoul/honeyed-words-generator**](https://github.com/zerosoul/honeyed-words-generator) | 684 | JavaScript | 2026-01-31 | 在线生成土味情话 |
 | 3 | [**disksing/sao-gen-gen**](https://github.com/disksing/sao-gen-gen) | 661 | Go | 2026-09-08 | 骚话生成器生成器 |
-| 4 | [**hitokoto-osc/sentences-bundle**](https://github.com/hitokoto-osc/sentences-bundle) | 466 | HTML | 2026-10-14 | 一言开源社区官方提供的语句库，系 hitokoto.cn 数据库打包集合。语句接口默认使用此库。 |
+| 4 | [**hitokoto-osc/sentences-bundle**](https://github.com/hitokoto-osc/sentences-bundle) | 466 | HTML | 2026-10-15 | 一言开源社区官方提供的语句库，系 hitokoto.cn 数据库打包集合。语句接口默认使用此库。 |
 | 5 | [**xiongbao/we.dog**](https://github.com/xiongbao/we.dog) | 254 | HTML | 2024-07-24 | 我们是狗，舔狗。心酸的舔狗日记。 |
 | 6 | [**wwcxjun/soul**](https://github.com/wwcxjun/soul) | 81 | PHP | 2020-02-06 | 毒鸡汤数据 |
 | 7 | [**owen0o0/dujitang**](https://github.com/owen0o0/dujitang) | 66 | CSS | 2023-04-12 | 一言毒鸡汤单页，喜欢就点小星星哦。 |
@@ -103,11 +103,11 @@
 | # | 项目 | ⭐ Stars | 语言 | 更新 | 简介 |
 |:-:|:--|--:|:-:|:-:|:--|
 | 1 | [**MemeCrafters/meme-generator**](https://github.com/MemeCrafters/meme-generator) | 1.0k | Python | 2026-10-06 | 表情包生成器，用于制作各种沙雕表情包 |
-| 2 | [**MemeCrafters/meme-generator-rs**](https://github.com/MemeCrafters/meme-generator-rs) | 260 | Rust | 2026-05-11 | 表情包生成器，用于制作各种沙雕表情包 |
+| 2 | [**MemeCrafters/meme-generator-rs**](https://github.com/MemeCrafters/meme-generator-rs) | 262 | Rust | 2026-05-11 | 表情包生成器，用于制作各种沙雕表情包 |
 | 3 | [**WincerChan/Meme-generator**](https://github.com/WincerChan/Meme-generator) | 170 | JavaScript | 2025-03-29 | 🦹🏻‍♂️ 纯 JavaScript 编写的表情包生成器 |
 | 4 | [**nulastudio/pic2meme**](https://github.com/nulastudio/pic2meme) | 160 | C# | 2024-11-27 | 微信表情包工具 - 快速将QQ或其他表情包转换成微信可添加的表情 |
 | 5 | [**Zhalslar/astrbot_plugin_memelite**](https://github.com/Zhalslar/astrbot_plugin_memelite) | 131 | Python | 2026-08-13 | 表情包生成器，制作各种沙雕表情（本地部署，但轻量化） |
-| 6 | [**anyliew/meme_emoji**](https://github.com/anyliew/meme_emoji) | 114 | Python | 2026-10-14 | meme-generator的表情包扩展仓库 |
+| 6 | [**anyliew/meme_emoji**](https://github.com/anyliew/meme_emoji) | 114 | Python | 2026-10-15 | meme-generator的表情包扩展仓库 |
 | 7 | [**SodaSizzle/astrbot_plugin_meme_generator**](https://github.com/SodaSizzle/astrbot_plugin_meme_generator) | 79 | Python | 2026-09-11 | 表情包生成插件 |
 | 8 | [**cssxsh/meme-helper**](https://github.com/cssxsh/meme-helper) | 63 | Kotlin | 2024-10-24 | Mirai Console 表情包生成插件 |
 | 9 | [**lijinke666/react-meme-generator**](https://github.com/lijinke666/react-meme-generator) | 63 | JavaScript | 2023-01-04 | :joy: a online meme generator for react (support camera) 一个支持摄像头的在线表情包生成器 |
@@ -119,7 +119,7 @@
 | # | 项目 | ⭐ Stars | 语言 | 更新 | 简介 |
 |:-:|:--|--:|:-:|:-:|:--|
 | 11 | [**nexu-io/sbti-skill**](https://github.com/nexu-io/sbti-skill) | 31 | JavaScript | 2026-04-10 | 🧠 SBTI 赛博人格测试 — 30 道题解锁 27 种沙雕人格，测自己或测你的 AI agent \| The viral cyber personality test as a nexu Skill |
-| 12 | [**anyliew/meme-emoji**](https://github.com/anyliew/meme-emoji) | 27 | Rust | 2026-10-13 | meme-generator-rs的表情包扩展仓库 |
+| 12 | [**anyliew/meme-emoji**](https://github.com/anyliew/meme-emoji) | 28 | Rust | 2026-10-15 | meme-generator-rs的表情包扩展仓库 |
 | 13 | [**anyliew/crazy_emoji**](https://github.com/anyliew/crazy_emoji) | 27 | Python | 2026-09-11 | meme-generator的表情包扩展仓库 |
 
 </details>
@@ -134,6 +134,6 @@
 
 <div align="center">
 
-<sub>自动生成 · 定时刷新 · 按 GitHub Stars 排名 · 2026-10-15</sub>
+<sub>自动生成 · 定时刷新 · 按 GitHub Stars 排名 · 2026-10-18</sub>
 
 </div>

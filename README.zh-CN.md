@@ -8,7 +8,7 @@
 
 ![Ranked by GitHub stars](https://img.shields.io/badge/ranked%20by-GitHub%20stars-orange?style=for-the-badge) ![GitHub stars](https://img.shields.io/badge/%E2%AD%90%20stars-repo-black?style=for-the-badge) ![License](https://img.shields.io/badge/license-CC0-0a7bbb?style=for-the-badge)
 
-![条目](https://img.shields.io/badge/%E6%9D%A1%E7%9B%AE-42-blueviolet?style=for-the-badge) ![总 Stars](https://img.shields.io/badge/%E6%80%BB%20Stars-8.6k-gold?style=for-the-badge) ![更新于](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E4%BA%8E-2026--10--30-brightgreen?style=for-the-badge)
+![条目](https://img.shields.io/badge/%E6%9D%A1%E7%9B%AE-42-blueviolet?style=for-the-badge) ![总 Stars](https://img.shields.io/badge/%E6%80%BB%20Stars-8.6k-gold?style=for-the-badge) ![更新于](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E4%BA%8E-2026--11--02-brightgreen?style=for-the-badge)
 
 [English](README.md) · **简体中文**
 
@@ -34,7 +34,7 @@
 | 2 | [**MemeCrafters/meme-generator**](https://github.com/MemeCrafters/meme-generator) | 1.0k | Python | 2026-10-06 | 表情包生成器，用于制作各种沙雕表情包 |
 | 3 | [**zthxxx/kugimiya-rainbow-fart**](https://github.com/zthxxx/kugimiya-rainbow-fart) | 835 | JavaScript | 2023-03-05 | 傲 娇 钉 宫，鞭 写 鞭 骂 - 钉宫理惠 vscode-rainbow-fart 扩展语音包 |
 | 4 | [**zerosoul/honeyed-words-generator**](https://github.com/zerosoul/honeyed-words-generator) | 685 | JavaScript | 2026-01-31 | 在线生成土味情话 |
-| 5 | [**disksing/sao-gen-gen**](https://github.com/disksing/sao-gen-gen) | 661 | Go | 2026-09-08 | 骚话生成器生成器 |
+| 5 | [**disksing/sao-gen-gen**](https://github.com/disksing/sao-gen-gen) | 660 | Go | 2026-09-08 | 骚话生成器生成器 |
 
 <a id="sec-1"></a>
 
@@ -44,10 +44,10 @@
 |:-:|:--|--:|:-:|:-:|:--|
 | 1 | [**egotong/nows**](https://github.com/egotong/nows) | 1.4k | CSS | 2022-08-30 | 毒鸡汤 |
 | 2 | [**zerosoul/honeyed-words-generator**](https://github.com/zerosoul/honeyed-words-generator) | 685 | JavaScript | 2026-01-31 | 在线生成土味情话 |
-| 3 | [**disksing/sao-gen-gen**](https://github.com/disksing/sao-gen-gen) | 661 | Go | 2026-09-08 | 骚话生成器生成器 |
-| 4 | [**hitokoto-osc/sentences-bundle**](https://github.com/hitokoto-osc/sentences-bundle) | 467 | HTML | 2026-10-30 | 一言开源社区官方提供的语句库，系 hitokoto.cn 数据库打包集合。语句接口默认使用此库。 |
+| 3 | [**disksing/sao-gen-gen**](https://github.com/disksing/sao-gen-gen) | 660 | Go | 2026-09-08 | 骚话生成器生成器 |
+| 4 | [**hitokoto-osc/sentences-bundle**](https://github.com/hitokoto-osc/sentences-bundle) | 467 | HTML | 2026-10-31 | 一言开源社区官方提供的语句库，系 hitokoto.cn 数据库打包集合。语句接口默认使用此库。 |
 | 5 | [**xiongbao/we.dog**](https://github.com/xiongbao/we.dog) | 254 | HTML | 2024-07-24 | 我们是狗，舔狗。心酸的舔狗日记。 |
-| 6 | [**wwcxjun/soul**](https://github.com/wwcxjun/soul) | 81 | PHP | 2020-02-06 | 毒鸡汤数据 |
+| 6 | [**wwcxjun/soul**](https://github.com/wwcxjun/soul) | 80 | PHP | 2020-02-06 | 毒鸡汤数据 |
 | 7 | [**owen0o0/dujitang**](https://github.com/owen0o0/dujitang) | 66 | CSS | 2023-04-12 | 一言毒鸡汤单页，喜欢就点小星星哦。 |
 | 8 | [**mzlogin/dujitang**](https://github.com/mzlogin/dujitang) | 60 | CSS | 2020-05-04 | 毒鸡汤 - 静态页面版 egotong/nows |
 | 9 | [**mooncakedevop/loveWechat**](https://github.com/mooncakedevop/loveWechat) | 37 | Python | 2021-09-21 | 向女朋友发送土味情话 |
@@ -75,7 +75,7 @@
 | 1 | [**zthxxx/kugimiya-rainbow-fart**](https://github.com/zthxxx/kugimiya-rainbow-fart) | 835 | JavaScript | 2023-03-05 | 傲 娇 钉 宫，鞭 写 鞭 骂 - 钉宫理惠 vscode-rainbow-fart 扩展语音包 |
 | 2 | [**izhangzhihao/intellij-rainbow-fart**](https://github.com/izhangzhihao/intellij-rainbow-fart) | 515 | Kotlin | 2025-08-31 | 🌈一个在你编程时持续夸你写的牛逼的扩展，可以根据代码关键字播放贴近代码意义的真人语音。Inspired by vscode-rainbow-fart |
 | 3 | [**Nanguage/Rainbow-Fart-MBG**](https://github.com/Nanguage/Rainbow-Fart-MBG) | 453 | — | 2020-12-22 | 程序员要讲码德，耗子尾汁，好好反思！ |
-| 4 | [**ezshine/vscode-rainbow-fart-waifu**](https://github.com/ezshine/vscode-rainbow-fart-waifu) | 148 | JavaScript | 2021-05-14 | a virtual lover will accompany your programing |
+| 4 | [**ezshine/vscode-rainbow-fart-waifu**](https://github.com/ezshine/vscode-rainbow-fart-waifu) | 147 | JavaScript | 2021-05-14 | a virtual lover will accompany your programing |
 | 5 | [**jadepeng/idea-rainbow-fart**](https://github.com/jadepeng/idea-rainbow-fart) | 112 | Java | 2022-02-09 | 一个在你编程时疯狂称赞你的 IDEA扩展插件,兼容VSCode版本语音包 \| An IDEA extension that keeps giving you compliment while you are codi… |
 | 6 | [**lineuman/jiuweiyaohu-rainbow-fart**](https://github.com/lineuman/jiuweiyaohu-rainbow-fart) | 96 | Shell | 2025-08-09 | vscode-rainbow-fart lol Voice Pack |
 | 7 | [**Lakr233/RainbowFart**](https://github.com/Lakr233/RainbowFart) | 86 | Swift | 2023-07-10 | 全自动夸夸机，配备先进的注意力感知功能，人工智能且离线。 |
@@ -106,7 +106,7 @@
 | 2 | [**MemeCrafters/meme-generator-rs**](https://github.com/MemeCrafters/meme-generator-rs) | 266 | Rust | 2026-05-11 | 表情包生成器，用于制作各种沙雕表情包 |
 | 3 | [**WincerChan/Meme-generator**](https://github.com/WincerChan/Meme-generator) | 170 | JavaScript | 2025-03-29 | 🦹🏻‍♂️ 纯 JavaScript 编写的表情包生成器 |
 | 4 | [**nulastudio/pic2meme**](https://github.com/nulastudio/pic2meme) | 161 | C# | 2024-11-27 | 微信表情包工具 - 快速将QQ或其他表情包转换成微信可添加的表情 |
-| 5 | [**anyliew/meme_emoji**](https://github.com/anyliew/meme_emoji) | 115 | Python | 2026-10-15 | meme-generator的表情包扩展仓库 |
+| 5 | [**anyliew/meme_emoji**](https://github.com/anyliew/meme_emoji) | 114 | Python | 2026-10-15 | meme-generator的表情包扩展仓库 |
 | 6 | [**SodaSizzle/astrbot_plugin_meme_generator**](https://github.com/SodaSizzle/astrbot_plugin_meme_generator) | 80 | Python | 2026-09-11 | 表情包生成插件 |
 | 7 | [**cssxsh/meme-helper**](https://github.com/cssxsh/meme-helper) | 63 | Kotlin | 2024-10-24 | Mirai Console 表情包生成插件 |
 | 8 | [**lijinke666/react-meme-generator**](https://github.com/lijinke666/react-meme-generator) | 63 | JavaScript | 2023-01-04 | :joy: a online meme generator for react (support camera) 一个支持摄像头的在线表情包生成器 |
@@ -133,6 +133,6 @@
 
 <div align="center">
 
-<sub>自动生成 · 定时刷新 · 按 GitHub Stars 排名 · 2026-10-30</sub>
+<sub>自动生成 · 定时刷新 · 按 GitHub Stars 排名 · 2026-11-02</sub>
 
 </div>

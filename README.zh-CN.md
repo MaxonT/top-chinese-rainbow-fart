@@ -8,7 +8,7 @@
 
 ![Ranked by GitHub stars](https://img.shields.io/badge/ranked%20by-GitHub%20stars-orange?style=for-the-badge) ![GitHub stars](https://img.shields.io/badge/%E2%AD%90%20stars-repo-black?style=for-the-badge) ![License](https://img.shields.io/badge/license-CC0-0a7bbb?style=for-the-badge)
 
-![条目](https://img.shields.io/badge/%E6%9D%A1%E7%9B%AE-42-blueviolet?style=for-the-badge) ![总 Stars](https://img.shields.io/badge/%E6%80%BB%20Stars-8.6k-gold?style=for-the-badge) ![更新于](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E4%BA%8E-2026--11--14-brightgreen?style=for-the-badge)
+![条目](https://img.shields.io/badge/%E6%9D%A1%E7%9B%AE-43-blueviolet?style=for-the-badge) ![总 Stars](https://img.shields.io/badge/%E6%80%BB%20Stars-8.8k-gold?style=for-the-badge) ![更新于](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E4%BA%8E-2026--11--23-brightgreen?style=for-the-badge)
 
 [English](README.md) · **简体中文**
 
@@ -21,7 +21,7 @@
 - [🏆 精选 Top](#top-picks)
 - [Corpora & Generators](#sec-1) · 15
 - [Rainbow-Fart Plugins & Voice Packs](#sec-2) · 15
-- [Memes & Sticker Makers](#sec-3) · 12
+- [Memes & Sticker Makers](#sec-3) · 13
 - [📖 关于本列表](#about)
 
 <a id="top-picks"></a>
@@ -33,7 +33,7 @@
 | 1 | [**egotong/nows**](https://github.com/egotong/nows) | 1.4k | CSS | 2022-08-30 | 毒鸡汤 |
 | 2 | [**MemeCrafters/meme-generator**](https://github.com/MemeCrafters/meme-generator) | 1.0k | Python | 2026-10-06 | 表情包生成器，用于制作各种沙雕表情包 |
 | 3 | [**zthxxx/kugimiya-rainbow-fart**](https://github.com/zthxxx/kugimiya-rainbow-fart) | 834 | JavaScript | 2023-03-05 | 傲 娇 钉 宫，鞭 写 鞭 骂 - 钉宫理惠 vscode-rainbow-fart 扩展语音包 |
-| 4 | [**zerosoul/honeyed-words-generator**](https://github.com/zerosoul/honeyed-words-generator) | 686 | JavaScript | 2026-11-12 | 在线生成土味情话 |
+| 4 | [**zerosoul/honeyed-words-generator**](https://github.com/zerosoul/honeyed-words-generator) | 685 | JavaScript | 2026-11-12 | 在线生成土味情话 |
 | 5 | [**disksing/sao-gen-gen**](https://github.com/disksing/sao-gen-gen) | 660 | Go | 2026-11-12 | 骚话生成器生成器 |
 
 <a id="sec-1"></a>
@@ -43,13 +43,13 @@
 | # | 项目 | ⭐ Stars | 语言 | 更新 | 简介 |
 |:-:|:--|--:|:-:|:-:|:--|
 | 1 | [**egotong/nows**](https://github.com/egotong/nows) | 1.4k | CSS | 2022-08-30 | 毒鸡汤 |
-| 2 | [**zerosoul/honeyed-words-generator**](https://github.com/zerosoul/honeyed-words-generator) | 686 | JavaScript | 2026-11-12 | 在线生成土味情话 |
+| 2 | [**zerosoul/honeyed-words-generator**](https://github.com/zerosoul/honeyed-words-generator) | 685 | JavaScript | 2026-11-12 | 在线生成土味情话 |
 | 3 | [**disksing/sao-gen-gen**](https://github.com/disksing/sao-gen-gen) | 660 | Go | 2026-11-12 | 骚话生成器生成器 |
-| 4 | [**hitokoto-osc/sentences-bundle**](https://github.com/hitokoto-osc/sentences-bundle) | 467 | HTML | 2026-11-13 | 一言开源社区官方提供的语句库，系 hitokoto.cn 数据库打包集合。语句接口默认使用此库。 |
+| 4 | [**hitokoto-osc/sentences-bundle**](https://github.com/hitokoto-osc/sentences-bundle) | 467 | HTML | 2026-11-21 | 一言开源社区官方提供的语句库，系 hitokoto.cn 数据库打包集合。语句接口默认使用此库。 |
 | 5 | [**xiongbao/we.dog**](https://github.com/xiongbao/we.dog) | 254 | HTML | 2024-07-24 | 我们是狗，舔狗。心酸的舔狗日记。 |
 | 6 | [**wwcxjun/soul**](https://github.com/wwcxjun/soul) | 80 | PHP | 2020-02-06 | 毒鸡汤数据 |
 | 7 | [**owen0o0/dujitang**](https://github.com/owen0o0/dujitang) | 66 | CSS | 2023-04-12 | 一言毒鸡汤单页，喜欢就点小星星哦。 |
-| 8 | [**mzlogin/dujitang**](https://github.com/mzlogin/dujitang) | 60 | CSS | 2020-05-04 | 毒鸡汤 - 静态页面版 egotong/nows |
+| 8 | [**mzlogin/dujitang**](https://github.com/mzlogin/dujitang) | 59 | CSS | 2020-05-04 | 毒鸡汤 - 静态页面版 egotong/nows |
 | 9 | [**mooncakedevop/loveWechat**](https://github.com/mooncakedevop/loveWechat) | 37 | Python | 2021-09-21 | 向女朋友发送土味情话 |
 | 10 | [**Programming-With-Love/TianGou**](https://github.com/Programming-With-Love/TianGou) | 35 | CSS | 2020-03-25 | 舔狗日记 |
 
@@ -104,22 +104,23 @@
 |:-:|:--|--:|:-:|:-:|:--|
 | 1 | [**MemeCrafters/meme-generator**](https://github.com/MemeCrafters/meme-generator) | 1.0k | Python | 2026-10-06 | 表情包生成器，用于制作各种沙雕表情包 |
 | 2 | [**MemeCrafters/meme-generator-rs**](https://github.com/MemeCrafters/meme-generator-rs) | 266 | Rust | 2026-05-11 | 表情包生成器，用于制作各种沙雕表情包 |
-| 3 | [**WincerChan/Meme-generator**](https://github.com/WincerChan/Meme-generator) | 170 | JavaScript | 2025-03-29 | 🦹🏻‍♂️ 纯 JavaScript 编写的表情包生成器 |
-| 4 | [**nulastudio/pic2meme**](https://github.com/nulastudio/pic2meme) | 163 | C# | 2024-11-27 | 微信表情包工具 - 快速将QQ或其他表情包转换成微信可添加的表情 |
-| 5 | [**anyliew/meme_emoji**](https://github.com/anyliew/meme_emoji) | 112 | Python | 2026-11-13 | meme-generator的表情包扩展仓库 |
-| 6 | [**SodaSizzle/astrbot_plugin_meme_generator**](https://github.com/SodaSizzle/astrbot_plugin_meme_generator) | 78 | Python | 2026-09-11 | 表情包生成插件 |
-| 7 | [**cssxsh/meme-helper**](https://github.com/cssxsh/meme-helper) | 63 | Kotlin | 2024-10-24 | Mirai Console 表情包生成插件 |
-| 8 | [**lijinke666/react-meme-generator**](https://github.com/lijinke666/react-meme-generator) | 63 | JavaScript | 2023-01-04 | :joy: a online meme generator for react (support camera) 一个支持摄像头的在线表情包生成器 |
-| 9 | [**syt123450/oreo-3d**](https://github.com/syt123450/oreo-3d) | 41 | JavaScript | 2019-01-16 | Generate 3D OREO, 奥利奥立体沙雕场景生成器 |
-| 10 | [**nexu-io/sbti-skill**](https://github.com/nexu-io/sbti-skill) | 31 | JavaScript | 2026-04-10 | 🧠 SBTI 赛博人格测试 — 30 道题解锁 27 种沙雕人格，测自己或测你的 AI agent \| The viral cyber personality test as a nexu Skill |
+| 3 | [**liyupi/father**](https://github.com/liyupi/father) | 207 | Java | 2026-11-23 | 爸爸表情包（father）是由程序员鱼皮开源的前后端分离全栈表情包搜索与在线制作网站，主打高效检索表情包、免费无水印下载原图以及在线裁剪合成自定义新表情，同时具备完整的前台交互与后台管理能力。前端采用 Vue 3、An… |
+| 4 | [**WincerChan/Meme-generator**](https://github.com/WincerChan/Meme-generator) | 170 | JavaScript | 2025-03-29 | 🦹🏻‍♂️ 纯 JavaScript 编写的表情包生成器 |
+| 5 | [**nulastudio/pic2meme**](https://github.com/nulastudio/pic2meme) | 163 | C# | 2024-11-27 | 微信表情包工具 - 快速将QQ或其他表情包转换成微信可添加的表情 |
+| 6 | [**anyliew/meme_emoji**](https://github.com/anyliew/meme_emoji) | 111 | Python | 2026-11-21 | meme-generator的表情包扩展仓库 |
+| 7 | [**SodaSizzle/astrbot_plugin_meme_generator**](https://github.com/SodaSizzle/astrbot_plugin_meme_generator) | 78 | Python | 2026-09-11 | 表情包生成插件 |
+| 8 | [**cssxsh/meme-helper**](https://github.com/cssxsh/meme-helper) | 63 | Kotlin | 2024-10-24 | Mirai Console 表情包生成插件 |
+| 9 | [**lijinke666/react-meme-generator**](https://github.com/lijinke666/react-meme-generator) | 63 | JavaScript | 2023-01-04 | :joy: a online meme generator for react (support camera) 一个支持摄像头的在线表情包生成器 |
+| 10 | [**syt123450/oreo-3d**](https://github.com/syt123450/oreo-3d) | 41 | JavaScript | 2019-01-16 | Generate 3D OREO, 奥利奥立体沙雕场景生成器 |
 
 <details>
-<summary>展开其余 2 项</summary>
+<summary>展开其余 3 项</summary>
 
 | # | 项目 | ⭐ Stars | 语言 | 更新 | 简介 |
 |:-:|:--|--:|:-:|:-:|:--|
-| 11 | [**anyliew/meme-emoji**](https://github.com/anyliew/meme-emoji) | 28 | Rust | 2026-10-15 | meme-generator-rs的表情包扩展仓库 |
-| 12 | [**anyliew/crazy_emoji**](https://github.com/anyliew/crazy_emoji) | 26 | Python | 2026-09-11 | meme-generator的表情包扩展仓库 |
+| 11 | [**nexu-io/sbti-skill**](https://github.com/nexu-io/sbti-skill) | 32 | JavaScript | 2026-04-10 | 🧠 SBTI 赛博人格测试 — 30 道题解锁 27 种沙雕人格，测自己或测你的 AI agent \| The viral cyber personality test as a nexu Skill |
+| 12 | [**anyliew/meme-emoji**](https://github.com/anyliew/meme-emoji) | 29 | Rust | 2026-11-21 | meme-generator-rs的表情包扩展仓库 |
+| 13 | [**anyliew/crazy_emoji**](https://github.com/anyliew/crazy_emoji) | 26 | Python | 2026-11-17 | meme-generator的表情包扩展仓库 |
 
 </details>
 
@@ -133,6 +134,6 @@
 
 <div align="center">
 
-<sub>自动生成 · 定时刷新 · 按 GitHub Stars 排名 · 2026-11-14</sub>
+<sub>自动生成 · 定时刷新 · 按 GitHub Stars 排名 · 2026-11-23</sub>
 
 </div>
